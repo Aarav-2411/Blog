@@ -1,0 +1,84 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+#travel img{
+    height: 800px;
+    width: 500px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.movie1 {
+    font-size: 20px;
+    padding: 6px 22px; 
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie1 i{
+    float: right;
+}
+
+.movie1 span{
+    margin-right: 10px;
+}
+
+#head span{
+    color: darkorange;
+}
+
+.list-group h4{
+    font-weight: 500;
+}
+
+.news1{
+    margin-bottom: 15px;
+}
+
+.book_1{
+    cursor: pointer;
+}
+
+.book hr{
+    margin-bottom: 10px; 
+}
+
+.modal_img {
+    height: 400px;
+}
+
+.modal-content {
+    margin-top: 72px;
+    text-align: center;
+}
+
+.book_2{
+    cursor: pointer;
+}
+
+.book_3{
+    cursor: pointer;
+}
+
+.book_4{
+    cursor: pointer;
+}
